@@ -1,0 +1,18 @@
+.traffic-light {
+    width: 190px;
+    height: 190px;
+    border:3px solid gray;
+    border-radius: 50%;
+}
+.switcher {
+    margin: 32px;
+}
+.traffic-light_green {
+    background-color: green;
+}
+.traffic-light_yellow {
+    background-color: yellow;
+}
+.traffic-light_red {
+    background-color: red;
+}
